@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bff-teams-creator/static/css/main.7acaea2f.css",
+    "main.js": "/bff-teams-creator/static/js/main.ac379e86.js",
+    "index.html": "/bff-teams-creator/index.html",
+    "main.7acaea2f.css.map": "/bff-teams-creator/static/css/main.7acaea2f.css.map",
+    "main.ac379e86.js.map": "/bff-teams-creator/static/js/main.ac379e86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.ac379e86.js"
+  ]
+}
